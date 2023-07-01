@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jason Oh</h1>
-<h3 align="center">A passionate full stack web, desktop, and video game developer from Indiana</h3>
+<h3 align="center">A passionate full stack web, desktop, and video game developer from Indiana, US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonoh428&label=Profile%20views&color=0e75b6&style=flat" alt="jasonoh428" /> </p>
 
